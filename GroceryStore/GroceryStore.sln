@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroceryStore", "GroceryStore\GroceryStore.csproj", "{6DA8FB18-7B7D-413E-A1A6-9988468CA2F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Engine", "Engine\Engine.csproj", "{5C891942-1F3F-461D-8FF8-68B25F7E8780}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DA8FB18-7B7D-413E-A1A6-9988468CA2F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DA8FB18-7B7D-413E-A1A6-9988468CA2F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DA8FB18-7B7D-413E-A1A6-9988468CA2F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DA8FB18-7B7D-413E-A1A6-9988468CA2F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C891942-1F3F-461D-8FF8-68B25F7E8780}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C891942-1F3F-461D-8FF8-68B25F7E8780}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C891942-1F3F-461D-8FF8-68B25F7E8780}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C891942-1F3F-461D-8FF8-68B25F7E8780}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9D5C1F0-5E50-48F1-AB10-F09C0536D349}
+	EndGlobalSection
+EndGlobal

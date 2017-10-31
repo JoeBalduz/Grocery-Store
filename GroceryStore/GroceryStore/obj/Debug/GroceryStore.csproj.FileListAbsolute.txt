@@ -1,0 +1,12 @@
+C:\Users\Chao5\Documents\Visual Studio 2017\Projects\GroceryStore\GroceryStore\obj\Debug\GroceryStore.csprojResolveAssemblyReference.cache
+C:\Users\Chao5\Documents\Visual Studio 2017\Projects\GroceryStore\GroceryStore\obj\Debug\GroceryStore.Form1.resources
+C:\Users\Chao5\Documents\Visual Studio 2017\Projects\GroceryStore\GroceryStore\obj\Debug\GroceryStore.Properties.Resources.resources
+C:\Users\Chao5\Documents\Visual Studio 2017\Projects\GroceryStore\GroceryStore\obj\Debug\GroceryStore.csproj.GenerateResource.Cache
+C:\Users\Chao5\Documents\Visual Studio 2017\Projects\GroceryStore\GroceryStore\obj\Debug\GroceryStore.csproj.CoreCompileInputs.cache
+C:\Users\Chao5\Documents\Visual Studio 2017\Projects\GroceryStore\GroceryStore\bin\Debug\GroceryStore.exe.config
+C:\Users\Chao5\Documents\Visual Studio 2017\Projects\GroceryStore\GroceryStore\bin\Debug\GroceryStore.exe
+C:\Users\Chao5\Documents\Visual Studio 2017\Projects\GroceryStore\GroceryStore\bin\Debug\GroceryStore.pdb
+C:\Users\Chao5\Documents\Visual Studio 2017\Projects\GroceryStore\GroceryStore\bin\Debug\Engine.dll
+C:\Users\Chao5\Documents\Visual Studio 2017\Projects\GroceryStore\GroceryStore\bin\Debug\Engine.pdb
+C:\Users\Chao5\Documents\Visual Studio 2017\Projects\GroceryStore\GroceryStore\obj\Debug\GroceryStore.exe
+C:\Users\Chao5\Documents\Visual Studio 2017\Projects\GroceryStore\GroceryStore\obj\Debug\GroceryStore.pdb
